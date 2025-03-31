@@ -6,7 +6,7 @@
 - 👩‍💻 Desenvolvedora de Software Full-Stack @Dell
 - 💻 Desenvolvimento Web
 - 🌱 Aprendendo mais sobre desenvolvimento de aplicativos
-- 🔬 Cursando Informática Biomédica na única federal de saúde do país, *UFCSPA*
+- 🔬 Formada em Informática Biomédica na única federal de saúde do país, *UFCSPA*
 - 🖨 Confecção de modelos anatômicos com impressora 3D para inclusão de deficientes visuais na exposição do Museu de Anatomia da UFCSPA
 - ⭐ Morei nos EUA por 3 anos
 <p align="left">
